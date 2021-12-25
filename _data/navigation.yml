@@ -1,0 +1,18 @@
+# main links
+# main:
+#   - title: "자바"
+#     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+docs:
+  - title: 언어
+    children:
+      - title: "자바"
+        url: language/java/
+        category: "java"
+
+  - title: 알고리즘
+    children:
+      - title: "백준"
+        url: algorithm/baeckjoon/
+        category: "baeckjoon"
+
