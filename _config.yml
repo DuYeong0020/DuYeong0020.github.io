@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "두영"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "나물집, 크레파스, 그리고 Iron Dragon"
+  location         : "Seoul"
   email            :
   links:
     - label: "Email"
