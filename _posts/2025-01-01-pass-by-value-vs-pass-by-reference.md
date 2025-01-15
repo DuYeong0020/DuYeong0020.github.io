@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "첫 포스팅"
+title:  "[JAVA] Pass By Value와 Pass By Reference"
 ---
 
 # 블로그 테스트
