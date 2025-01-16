@@ -79,7 +79,7 @@ public class Test {
 
 객체의 `modifyName` 메서드를 호출하면 참조를 통해 name을 변경하기 때문에 생성된 객체의 이름이 변경된다.
 
-### 자바는 pass by value뿐일까?
+### 자바는 pass by value만?
 구글링하다 보면 가끔 "자바는 pass by reference는 없고 pass by value만 있다"라고 알려준다.
 
 → 객체가 전달되었을 때 필드에 접근하여 값을 수정하는 것은 가능하지만 그 객체 자체를 변경하는 것은 불가능하다는 의미이다.
