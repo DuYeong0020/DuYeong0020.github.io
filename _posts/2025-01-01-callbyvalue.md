@@ -2,6 +2,7 @@
 layout: single
 title:  "[JAVA] Pass By Value와 Pass By Reference"
 categories: java
+tag: java
 ---
 ## Pass by value
 복사된 데이터를 전달하여 값을 수정해도 원본 데이터에는 영향을 주지 않도록 하는 방식이다. 
